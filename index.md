@@ -1,8 +1,8 @@
-# TITLE TO ADD LATER
-When I know what I'm going to sue this for
+# Urban Informatics insight
 
+## Spatial Data Analysis
 
-## Point pattern analysis
+### Point pattern analysis
 
 Density methods/first order/global
 - [Kernal density estimation](Kernal-density-estimation.md)
@@ -10,4 +10,8 @@ Density methods/first order/global
 Distance methods/second order/local
 - [K function](k-function.md)
 
+## Epidemiology
 
+## Network Data Analysis
+
+## Data Mining
