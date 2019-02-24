@@ -6,4 +6,4 @@ Kernal density estimation is similar to the quadrat method where the number of p
 
 ## Is this not the same as spatial interpolation?
 
-Interpolation is used where it is theoretically possible to take a measurement of an attribute value, eg. soil sample. This is not necessarily the case for crime events or other point data in the sense that there may not have been any occurences of crime. 
+Interpolation is used where it is theoretically possible to take a measurement of an attribute value. In other words the variable has meaningful values at every other possible point in the region eg. soil pH etc. We use interpolation to produce a continuous surface. This is not the case for crime instances, railway stations or other point data in the sense that there may not have been any occurences. 
