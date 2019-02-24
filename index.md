@@ -2,4 +2,4 @@
 
 
 Spatial statistics
-- [K function](pages/k-function.md)
+- [K function](k-function.md)
