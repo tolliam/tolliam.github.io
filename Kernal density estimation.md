@@ -4,6 +4,6 @@ Kernal density estimation is similar to the quadrat method where the number of p
 
 # KDE gives a more smoothed density than the basic quadrat method and is often used to produce heat maps. NB. Heat maps are different from hot spot maps as they are based on occurance of events rather than attribute values of polygons. 
 
-## Is this not the same as interpolation?
+## Is this not the same as spatial interpolation?
 
-Interpolation is used where it is theoretical possible to take a measurement of an attribute value, eg. soil sample. This is not necessarily the case for crime events in the sense that there may not have been any occurences of crime. 
+Interpolation is used where it is theoretically possible to take a measurement of an attribute value, eg. soil sample. This is not necessarily the case for crime events or other point data in the sense that there may not have been any occurences of crime. 
