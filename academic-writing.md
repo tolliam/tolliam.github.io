@@ -1,6 +1,6 @@
 # Academic writing style
 
-As a dyslexia (or at least someone in that direction on the spectrum), I've always found writing a struggle. In a world where the standard of your writing is still seen by some as a proxy for intelligence, this has been a source of immense insecurity. I often know what I want to say, but I often struggle to place the right words in the appropriate order to make my point. I go around in circles thinking about word order and before I know it, I've spent quite a long time agonising over what feels like such a trivial task. Writing in an academic setting can be particularly challenging.
+As a dyslexic (or at least towards that end of the spectrum), I've always found writing a struggle. In a world where the standard of your writing is still seen by some as a proxy for intelligence, this has been a source of immense insecurity. I often know what I want to say, but I often struggle to place the right words in the appropriate order to make my point. I go around in circles thinking about word order and before I know it, I've spent quite a long time agonising over what feels like such a trivial task. Writing in an academic setting can be particularly challenging.
 
 ## The passive voice
 
