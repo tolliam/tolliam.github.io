@@ -1,4 +1,4 @@
-# A few notes on academic writing style
+# Academic writing style
 
 As a dyslexia (or at least someone in that direction on the spectrum), I've always found writing a struggle. In a world where the standard of your writing still gives an immediate impression of intelligence, this has been a source of insecurity. I often know what I want to say, but I often struggle to place the right words in the appropriate order to make my point. I go around in circles thinking about word order and before I know it, I've spent quite a long time agonising over what feels like such a trivial task. Writing in an academic setting can be particularly challenging as you want to give the impression of objectivity.
 
