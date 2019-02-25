@@ -6,7 +6,7 @@ As a dyslexic (or at least towards that end of the spectrum), I've always found 
 
 One of the only things that sticks in my mind from my secondary school English lessons is to avoid the use of I (first person) in essays. However, what I didn't appreciate until recently is that the the inevitable consequence of this is frequent use of the passive construction. 
 
-The passive can sound "clumsy", "cumbersome", "pompous" and even "lazy" as it describes the action without saying who did it. This can also lead to ambiguity. It also exaserbates the risk of dangling modifiers where the subject in the introductory sentence is not stated. Take the following example.
+The passive can sound "clumsy", "cumbersome", "pompous" and even "lazy" as it describes the action without saying who did it. Its use can also lead to ambiguity and exaserbates the risk of dangling modifiers. Take the following example.
 
 `Before undertaking linear regression, it was determined that the data needed cleaning.`
 
