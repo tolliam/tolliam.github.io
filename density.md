@@ -1,6 +1,6 @@
 # Density
 
-# Quadrat method
+## Quadrat method
 Involves dividing the study area in to same sized sub-areas (quadrats) and counting the events falling insidde each. 
 
 The density is calculated and is often used to plot a histogram.
