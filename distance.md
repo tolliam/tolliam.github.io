@@ -12,8 +12,11 @@ The R index is just
 
 You can also test that mean observed distance follows CSR by subtracting observed distance from expected distance and divide by standard deviation to get z score.
 
+
 NN index = 0 Clustered
+
 NN index = 1 Random
+
 NN index > 1 Uniform
 
 ## Ripley's K function
