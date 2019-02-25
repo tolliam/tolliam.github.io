@@ -1,5 +1,3 @@
-# Insights from my Urban Informatics studies and life in general back in the academic world
-
 ## General
 
 [Academic writing](academic-writing.md)
