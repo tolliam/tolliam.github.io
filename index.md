@@ -1,13 +1,14 @@
-# Insights from my studies and life back in the academic world
+# Insights from my Urban Informatics studies and life in general back in the academic world
 
 ## General
 
 [Academic writing](academic-writing.md)
 
-
 ## Spatial Data Analysis
 
 `Everything is related to everthing else but near things are more related than distant things`Waldo Tobler
+
+### Best neighbourhood in London 
 
 ### Point pattern analysis
 
