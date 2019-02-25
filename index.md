@@ -6,11 +6,9 @@
 
 ### Point pattern analysis
 
-Density methods/first order/global
-- [Kernal density estimation](Kernal-density-estimation.md)
+[Density methods/first order/global](density.md)
 
-Distance methods/second order/local
-- [K function](k-function.md)
+[Distance methods/second order/local](distance.md)
 
 ## Epidemiology
 
