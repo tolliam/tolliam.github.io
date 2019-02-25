@@ -2,7 +2,7 @@
 
 ## Spatial Data Analysis
 
-`Everything is related to everthing else but near things are more related than distant things`
+`Everything is related to everthing else but near things are more related than distant things`Waldo Tobler
 
 ### Point pattern analysis
 
