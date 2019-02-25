@@ -1,4 +1,9 @@
-# Urban Informatics insight
+# Insights from my studies and life back in the academic world
+
+## General
+
+[Academic writing](academic-writing.md)
+
 
 ## Spatial Data Analysis
 
