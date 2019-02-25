@@ -1,16 +1,16 @@
 # Spatial data challenges
 
-## Ecological falacy
+## Ecological fallacy
 
 False assumption that variables at the aggregates level share the same relationship at the individual level.
 
-## Simpson's paradox 
+## Simpson's paradox 
 
-Trends can reverse when different groups combine due to different sizes. Examples include American Civil Rights vote/US states and comparing drug effectiveness over multiple days
+Trends can reverse when different groups are combined due to their different sizes. Some examples include American Civil Rights vote in US states and comparing drug effectiveness over multiple days.
 
 ## Modifiable Ariel Unit Problem (MAUP)
 
-Boundaries are often arbitrary and changing the location (zone effect) or size (distance effect) of these can effect measurement.
+Boundaries are often arbitrarily defined. Measurement can be affected by changing the location (zone effect) or size (distance effect) of these boundaries.
 
 # Edege effects
 
