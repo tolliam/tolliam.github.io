@@ -2,6 +2,8 @@
 
 ## Spatial Data Analysis
 
+`Everything is related to everthing else but near things are more related than distant things`
+
 ### Point pattern analysis
 
 Density methods/first order/global
