@@ -1,6 +1,10 @@
-### Simple sentence
+## Sentences and clauses
+
+### Simple sentences
 
 `I like cheese.`
+
+`I go running every day.`
 
 ### Compound sentences
 Join two simple sentences with a co-ordindating conjunction
@@ -26,7 +30,7 @@ N.B The order of clauses in a complex sentence is flexible. A comma is not neede
 
 #### Non-restrictive relative
 
-`Tottenham will play the rest of the season at Wembley stadium, which is a located in North West London. 
+`Tottenham will play the rest of the season at Wembley stadium, which is a located in North West London.`
 
 ### Compound-complex sentences
 Contain two indepedent clauses and a subordinate clause
