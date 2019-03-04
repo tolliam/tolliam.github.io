@@ -7,12 +7,14 @@
 `I go running every day.`
 
 ### Compound sentences
-Join two simple sentences with a co-ordindating conjunction
+These join two simple sentences with a co-ordindating conjunction
 
 `I like cheese, but my sister does not.`
 
 ### Complex sentences
-Contain a subordinate clause or a subordinate or relative clause.
+These contain a subordinate or relative clause.
+
+#### Sub-ordinate cluase
 
 `Unless I do enough exercise, I feel grumpy and miserable.`
 
@@ -22,13 +24,13 @@ N.B The order of clauses in a complex sentence is flexible. A comma is not neede
 
 `I know a girl who bakes amazing cakes.`
 
-#### Restrictive relative
+#### Restrictive relative clause
 
 `I run on trails that are not muddy.
 
 `The players who performed well recieved a bottle of champagne.`
 
-#### Non-restrictive relative
+#### Non-restrictive relative clause
 
 `Tottenham will play the rest of the season at Wembley stadium, which is a located in North West London.`
 
