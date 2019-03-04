@@ -47,4 +47,4 @@ Two main clauses can be joined using a conjunctive adverb, such as "accordingly"
 
 `Tim did not read the instructions; so, he did not assemble the desk properly.` 
 
-`I am sorry you can't go for a run today; anyway, the forecast is for rain. 
+`I am sorry you can't go for a run today; anyway, the forecast is for rain.`
