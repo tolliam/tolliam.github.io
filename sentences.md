@@ -18,10 +18,14 @@ N.B The order of clauses in a complex sentence is flexible. A comma is not neede
 
 `I know a girl who bakes amazing cakes.`
 
-(Restrictive relative)
-`I join run on trails that are not muddy.`
+#### Restrictive relative
 
-(Non-restrictive relative)
+`I run on trails that are not muddy.
+
+`The players who performed well recieved a bottle of champagne.`
+
+#### Non-restrictive relative
+
 `Tottenham will play the rest of the season at Wembley stadium, which is a located in North West London. 
 
 ### Compound-complex sentences
