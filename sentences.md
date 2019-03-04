@@ -7,7 +7,7 @@
 `I go running every day.`
 
 ### Compound sentences
-These join two simple sentences with a co-ordindating conjunction
+These join two simple sentences with a co-ordindating conjunction (FANBOYS)
 
 `I like cheese, but my sister does not.`
 
@@ -15,6 +15,7 @@ These join two simple sentences with a co-ordindating conjunction
 These contain a subordinate or relative clause.
 
 #### Sub-ordinate cluase
+A subordinating conjunction is used to connect clauses such as, "now that", "though", "unless", "until", "before", "as", "because", "when", "where",= and "while".
 
 `Unless I do enough exercise, I feel grumpy and miserable.`
 
@@ -38,3 +39,12 @@ N.B The order of clauses in a complex sentence is flexible. A comma is not neede
 Contain two indepedent clauses and a subordinate clause
 
 `I use to go skiing every year when I was younger, but I no longer have enough money to do so.`
+
+
+### Connecting two main clauses
+
+Two main clauses can be joined using a conjunctive adverb, such as "accordingly", "also", "besides", "consequently", "finally", "however", "indeed", "instead", "likewise", "meanwhile", "moreover" and "nevertheless".
+
+`Tim did not read the instructions; so, he did not assemble the desk properly.` 
+
+`I am sorry you can't go for a run today; anyway, the forecast is for rain. 
