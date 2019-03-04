@@ -1,6 +1,6 @@
 ### Simple sentence
 
-I like cheese
+`I like cheese.`
 
 ### Compound sentences
 Join two simple sentences with a co-ordindating conjunction
