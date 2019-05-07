@@ -32,5 +32,5 @@ This would read much better as:
 ## The Economist Style Guide
 
 This is a great resource for improving your writing
-[Economist Style Guide)(https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf)
+[Economist Style Guide](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf)
 
