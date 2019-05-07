@@ -19,7 +19,7 @@ Studies themselves are not conscious and cannot themselves explore anything, nor
 
 While use of the passive is frowned upon in humanities subjects, it is used all of the time in the scientific world due to it being an easy way to give the impression of "objectivity". The passive is also useful where the person doing the action is irrelevant or unknown. 
 
-# Too many nouns
+## Too many nouns
 
 A seperate but related issue to the passive is the practice of using more nouns than verbs. Take the following example. 
 
@@ -29,7 +29,7 @@ This would read much better as:
 
 'These girls intend to join the netball team.`
 
-# The Economist Style Guide
+## The Economist Style Guide
 
 This is a great resource for improving your writing
 https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf
