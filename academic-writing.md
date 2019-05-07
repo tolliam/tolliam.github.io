@@ -29,4 +29,8 @@ This would read much better as:
 
 'These girls intend to join the netball team.`
 
- REFERENCE THE ECONOMIST STYLE GUIDE
+# The Economist Style Guide
+
+This is a great resource for improving your writing
+https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf
+
