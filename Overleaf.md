@@ -6,6 +6,10 @@
 ### Export
 `Menu >> PDF`
 
+### Import to project
+(upload.jpeg "Upload")
+
+
 ### In text citation
 `\cite{RefWorks:xxxxxx}`
 
