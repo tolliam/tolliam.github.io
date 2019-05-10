@@ -8,7 +8,7 @@
 
 ## Spatial data analysis
 
-`Everything is related to everthing else but near things are more related than distant things (Waldo Tobler)'
+`Everything is related to everthing else but near things are more related than distant things (Waldo Tobler)`
 
 [Density methods/first order/global](density.md)
 
