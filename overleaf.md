@@ -7,7 +7,8 @@
 `Menu >> PDF`
 
 ### Import to project
-(upload.jpeg "Upload")
+
+[[https://github.com/Tolltott/Tolltott.github.io/blob/master/upload.jpeg|alt=upload]]
 
 ### In text citation
 `\cite{RefWorks:xxxxxx}`
