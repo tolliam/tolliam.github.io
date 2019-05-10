@@ -29,7 +29,7 @@
 `\label{table_label}`  
 `\end{table}`  
 
-## Figures 
+### Figures 
 
 `\begin{figure}[hbt!]`
 `	\centering`
@@ -58,3 +58,15 @@
 `\usepackage{pdfpages}`
 
 `\includepdf[pages=-]{pdfname.pdf}`
+
+
+### Single landscape page
+
+`\usepackage{geometry}`
+
+`\newgeometry{margin=0.3cm}`
+`\begin{landscape}`
+`\thispagestyle{empty}`
+
+`\end{landscape}`
+`\restoregeometry`
