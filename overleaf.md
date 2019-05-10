@@ -22,20 +22,20 @@
 `\centering`  
 `\caption{Table_caption}`  
 `\begin{tabular}{||c|cc|}`  
-` \hline`  
-`Column_head1 & Column_head2 & Column_head3 \\ [0.5ex] `  
- `\hline`  
- `Row1 & 72 & 30  \\ `  
-   `\hline`  
- `Row2 & 47 & 0   \\`  
-    `\hline`  
+`\hline`  
+`Column_head1 & Column_head2 & Column_head3 \\ [0.5ex]`   
+`\hline`  
+`Row1 & 72 & 30  \\`  
+`\hline`  
+`Row2 & 47 & 0   \\`  
+`\hline`  
 `\end{tabular}`  
 `\label{table_label}`  
 `\end{table}`  
 
 ### Figures 
 
-`\begin{figure}[hbt!]`    
+`\begin{figure}[hbt!]`  
 `\centering`  
 `\caption{fig_caption}`  
 `\includegraphics[width=0.7\linewidth]{figname.png}`  
