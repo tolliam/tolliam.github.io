@@ -1,7 +1,10 @@
 ## Overleaf/LaTeX instructions
 
 ### Create new project
-New project >> Upload Project >> Select a .zip file
+`New project >> Upload Project >> Select a .zip file`
+
+### Export
+`Menu >> PDF`
 
 ### In text citation
 `\cite{RefWorks:xxxxxx}`
@@ -35,7 +38,7 @@ New project >> Upload Project >> Select a .zip file
 `	\label{fig_label}`
 `\end{figure}`
 
-[Change figure position]{https://www.overleaf.com/learn/latex/Positioning_of_Figures}
+[Change figure position](https://www.overleaf.com/learn/latex/Positioning_of_Figures)
 
 ### Subfigures
 `\begin{figure}[h]`  
