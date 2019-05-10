@@ -1,4 +1,4 @@
-## Overleaf/LaTeX useful instructions/code
+## Overleaf/LaTeX
 
 ### Create new project
 `New project >> Upload Project >> Select a .zip file`
