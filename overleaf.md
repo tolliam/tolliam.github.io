@@ -6,7 +6,7 @@
 ### Export
 `Menu >> PDF`
 
-### Import to project
+### Import figure, .tex, .bib, .pdf  to project
 
 ![Import](upload.jpeg "upload")
 
