@@ -8,7 +8,7 @@
 
 ### Import to project
 
-[https://github.com/Tolltott/Tolltott.github.io/blob/master/upload.jpeg|alt=upload]
+![Import](upload.jpeg "upload")
 
 ### In text citation
 `\cite{RefWorks:xxxxxx}`
