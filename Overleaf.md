@@ -1,0 +1,50 @@
+## Overleaf/LaTeX instructions
+
+### Create new project
+New project >> Upload Project >> Select a .zip file
+
+### In text citation
+`\cite{RefWorks:xxxxxx}`
+
+### Cross reference
+`~\ref{figure or table label}`
+
+### Tables
+`\begin{table}[hbt!]`
+`\footnotesize`
+`\centering`
+`\caption{Table_caption}`
+ `\begin{tabular}{||c|c|c|} `
+` \hline`
+ `Column_head1 & Column_head2 & Column_head3 \\ [0.5ex] `
+ `\hline`
+ `Row 1 & 72 & 30  \\ `
+   `\hline`
+ `Row2 & 47 & 0   \\`
+    `\hline`
+`\end{tabular}`
+`\label{table_label}`
+`\end{table}`
+
+
+### Change figure position
+`\begin{figure}[hbt!]`
+
+### Subfigures
+`\begin{figure}[h]`  
+`\begin{subfigure}{0.5\textwidth}`  
+`\includegraphics[width=1.1\linewidth, height=11cm]{Figure/xxxx.png}`  
+`\caption{subfigure1_captionhere}`  
+`\label{subfig_label1}`  
+`\end{subfigure}`  
+`\begin{subfigure}{0.5\textwidth}`  
+`\includegraphics[width=1.1\linewidth, height=11cm]{Figure/yyyy.png}`  
+`\caption{subfigure2_captionhere}`  
+`\label{subfig_label2}`  
+`\end{subfigure}`  
+
+### Inserting PDF
+`\usepackage{pdflscape}`
+`\usepackage{pdfpages}`
+
+`\includepdf[pages=-]{pdfname.pdf}`
