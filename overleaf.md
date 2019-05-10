@@ -34,12 +34,12 @@
 
 ### Figures 
 
-`\begin{figure}[hbt!]`
-`	\centering`
-`\caption{fig_caption}`
-	`\includegraphics[width=0.7\linewidth]{figname.png}`
-`	\label{fig_label}`
-`\end{figure}`
+`\begin{figure}[hbt!]`  
+`	\centering`  
+`\caption{fig_caption}`  
+	`\includegraphics[width=0.7\linewidth]{figname.png}`  
+`	\label{fig_label}`  
+`\end{figure}`  
 
 [Change figure position](https://www.overleaf.com/learn/latex/Positioning_of_Figures)
 
@@ -67,9 +67,9 @@
 
 `\usepackage{geometry}`
 
-`\newgeometry{margin=0.3cm}`
-`\begin{landscape}`
-`\thispagestyle{empty}`
+`\newgeometry{margin=0.3cm}`  
+`\begin{landscape}`  
+`\thispagestyle{empty}`  
 
 `\end{landscape}`
 `\restoregeometry`
