@@ -1,4 +1,4 @@
-## Overleaf/LaTeX instructions
+## Overleaf/LaTeX useful instructions/code
 
 ### Create new project
 `New project >> Upload Project >> Select a .zip file`
@@ -8,7 +8,6 @@
 
 ### Import to project
 (upload.jpeg "Upload")
-
 
 ### In text citation
 `\cite{RefWorks:xxxxxx}`
