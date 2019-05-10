@@ -3,10 +3,10 @@
 ### Create new project
 `New project >> Upload Project >> Select a .zip file`
 
-### Export
-`Menu >> PDF`
-
 ### Import figure, .tex, .bib, .pdf  to project
+
+### Export project to PDF
+`Menu >> PDF`
 
 ![Import](upload.jpeg "upload")
 
