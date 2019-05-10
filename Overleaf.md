@@ -10,25 +10,32 @@ New project >> Upload Project >> Select a .zip file
 `~\ref{figure or table label}`
 
 ### Tables
-`\begin{table}[hbt!]`
-`\footnotesize`
-`\centering`
-`\caption{Table_caption}`
- `\begin{tabular}{||c|c|c|} `
-` \hline`
- `Column_head1 & Column_head2 & Column_head3 \\ [0.5ex] `
- `\hline`
- `Row 1 & 72 & 30  \\ `
-   `\hline`
- `Row2 & 47 & 0   \\`
-    `\hline`
-`\end{tabular}`
-`\label{table_label}`
-`\end{table}`
+`\begin{table}[hbt!]`  
+`\footnotesize`  
+`\centering`  
+`\caption{Table_caption}`  
+ `\begin{tabular}{||c|cc|} `  
+` \hline`  
+ `Column_head1 & Column_head2 & Column_head3 \\ [0.5ex] `  
+ `\hline`  
+ `Row 1 & 72 & 30  \\ `  
+   `\hline`  
+ `Row2 & 47 & 0   \\`  
+    `\hline`  
+`\end{tabular}`  
+`\label{table_label}`  
+`\end{table}`  
 
+## Figures 
 
-### Change figure position
 `\begin{figure}[hbt!]`
+`	\centering`
+`\caption{fig_caption}`
+	`\includegraphics[width=0.7\linewidth]{figname.png}`
+`	\label{fig_label}`
+`\end{figure}`
+
+[Change figure position]{https://www.overleaf.com/learn/latex/Positioning_of_Figures}
 
 ### Subfigures
 `\begin{figure}[h]`  
