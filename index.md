@@ -17,7 +17,7 @@
 [Overleaf/LaTeX](overleaf.md)  
 
 ## Previous life 
-[Cities & transport projects I worked on](xxxxx)
+[Cities & transport projects I worked on](xxxxx)  
 [English Opens Doors Volunteer Programme](http://centrodevoluntarios.cl/)  
 [JRF Data](https://www.jrf.org.uk/data)
 
