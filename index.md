@@ -1,4 +1,4 @@
-## Coursework
+## Assignment repos
 
 [Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)  
 [Bots and Brexit](https://github.com/Tolltott/Bots-brexit)  
@@ -11,7 +11,7 @@
 [Density methods/first order/global](density.md)  
 [Distance methods/second order/local](distance.md)
 
-## General
+## Writing
 
 [Academic writing](academic-writing.md)  
 [Overleaf/LaTeX](overleaf.md)  
