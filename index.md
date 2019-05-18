@@ -1,3 +1,7 @@
+
+
+[CV](https://github.com/tolliam/tolliam.github.io/blob/master/Liam%20Tollinton%2020190518x.pdf)
+
 ## Assignment repos
 
 [Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)  
