@@ -1,25 +1,25 @@
 ## Coursework
 
-[Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)
-[Bots and Brexit](https://github.com/Tolltott/Bots-brexit)
+[Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)  
+[Bots and Brexit](https://github.com/Tolltott/Bots-brexit)  
 [MP Wikipedia page edits](https://github.com/Tolltott/MP-wiki-edits)
 
 ## Spatial data analysis
 
 `Everything is related to everthing else but near things are more related than distant things (Waldo Tobler)`
 
-[Density methods/first order/global](density.md)
+[Density methods/first order/global](density.md)  
 [Distance methods/second order/local](distance.md)
 
 ## General
 
-[Academic writing](academic-writing.md)
-[Overleaf/LaTeX](overleaf.md)
+[Academic writing](academic-writing.md)  
+[Overleaf/LaTeX](overleaf.md)  
 
 ## Previous life 
-
-[English Opens Doors Volunteer Programme](http://centrodevoluntarios.cl/)
 [Cities & transport projects I worked on](xxxxx)
+[English Opens Doors Volunteer Programme](http://centrodevoluntarios.cl/)  
+[JRF Data](https://www.jrf.org.uk/data)
 
 
 
