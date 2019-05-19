@@ -4,7 +4,7 @@ Two years working in a multidisciplinary consultancy gave me exposure to more pr
 
 ### Cardiff Parkway  
 
-Cardiff Parkway is a proposed new railway station that is [due to go through the consenting phase this summer](https://www.bbc.co.uk/news/uk-wales-46967369) 
+Cardiff Parkway is a proposed new railway station that is [due to go through the consenting phase this summer](https://www.bbc.co.uk/news/uk-wales-46967369).  
 
 ### Global Centre of Rail Excellence in Wales  
 
