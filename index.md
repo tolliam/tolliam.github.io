@@ -2,6 +2,10 @@
 
 [CV](https://github.com/tolliam/tolliam.github.io/blob/master/Liam%20Tollinton%2020190518x.pdf)
 
+[LinkedIn](https://www.linkedin.com/in/liam-tollinton-17aaa932/)
+
+I occassionally Tweet, but more frequently Retweet [@tolliam](https://twitter.com/tolliam)
+
 ## Assignment repos
 
 [Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)  
