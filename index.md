@@ -10,16 +10,13 @@ I occassionally Tweet [@tolliam](https://twitter.com/tolliam), but more frequent
 It's probably more interesting to follow me on [Strava](https://www.strava.com/athletes/1072098)
 
 ## Assignment repos
-
 [Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)  | [Bots and Brexit](https://github.com/Tolltott/Bots-brexit)  | [MP Wikipedia page edits](https://github.com/Tolltott/MP-wiki-edits)
 
 ## Spatial data analysis
-
 [Density methods/first order/global](density.md)  | [Distance methods/second order/local](distance.md)
 
 ## Writing
-
 [Academic writing](academic-writing.md)  | [Overleaf/LaTeX](overleaf.md)  
 
 ## Previous life 
-[Cities & transport projects I worked on](arup_projects.md)  | [English Opens Doors Volunteer Programme](http://centrodevoluntarios.cl/)   | [JRF Data](https://www.jrf.org.uk/data)
+[Cities & transport projects I worked on](arup_projects.md)   |   [English Opens Doors Volunteer Programme](http://centrodevoluntarios.cl/)  |  [JRF Data](https://www.jrf.org.uk/data)
