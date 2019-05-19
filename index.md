@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/liam-tollinton-17aaa932/)
 
-I occassionally Tweet, but more frequently Retweet [@tolliam](https://twitter.com/tolliam)
+I occassionally Tweet [@tolliam](https://twitter.com/tolliam), but more frequently Retweet.
 
 ## Assignment repos
 
@@ -26,6 +26,3 @@ I occassionally Tweet, but more frequently Retweet [@tolliam](https://twitter.co
 [Cities & transport projects I worked on](arup_projects.md)  
 [English Opens Doors Volunteer Programme](http://centrodevoluntarios.cl/)  
 [JRF Data](https://www.jrf.org.uk/data)
-
-
-
