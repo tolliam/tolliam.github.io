@@ -2,7 +2,7 @@
 
 ## About me
 
-I am currently working near full time on my MSc Project, which is investigating if free text and location information from ambulance calls can improve predictions of patient outcomes. I used to work as a transport and cities economist at the engineering consultancy Ove Arup & Partners.
+I am currently working near full time on my MSc Project, which is investigating if free text and location information from ambulance calls can improve predictions of patient outcomes. I used to work as a transport and cities economist at the engineering consultancy Ove Arup & Partners. Prior to that, I did a gap year in South America where I worked as a volunteer English teacher in Chile and also did short term work in two hostels in Rio and a bar in La Paz Bolivia. Other experience I gained before this includes a year long placement at the Foreign & Commonwealth Office and a summer internship at the Joseph Rowntree Foundation.
 
 [CV](https://github.com/tolliam/tolliam.github.io/blob/master/Liam%20Tollinton%2020190518x.pdf)
 
