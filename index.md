@@ -1,4 +1,4 @@
-Helpful hint: be sure to scroll down if you are viewing this in a small browser window to not miss anything!
+###### Helpful hint: be sure to scroll down if you are viewing this in a small browser window to not miss anything!
 
 ## About me
 
