@@ -5,6 +5,7 @@
 [LinkedIn](https://www.linkedin.com/in/liam-tollinton-17aaa932/)
 
 I occassionally Tweet [@tolliam](https://twitter.com/tolliam), but more frequently Retweet.
+It's probably more interesting to follow me on [Strava](https://www.strava.com/athletes/1072098)
 
 ## Assignment repos
 
