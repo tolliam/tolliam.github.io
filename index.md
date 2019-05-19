@@ -1,4 +1,6 @@
+## About me
 
+I am currently working near full time on my MSc Project, which is investigating if free text and location information from ambulance calls can improve predictions of patient outcomes. I used to work as a transport and cities economist at the engineering consultancy Ove Arup & Partners.
 
 [CV](https://github.com/tolliam/tolliam.github.io/blob/master/Liam%20Tollinton%2020190518x.pdf)
 
