@@ -2,12 +2,14 @@
 
 ## About me
 
-I am currently working near full time on my MSc Project, which is investigating if free text and location information from ambulance calls can improve predictions of patient outcomes. I used to work as a transport and cities economist at the engineering consultancy Ove Arup & Partners. Prior to that, I did a gap year in South America where I worked as a volunteer English teacher in Chile and also did short term work in two hostels in Rio and a bar in La Paz Bolivia. Other experience I gained before this includes a year long placement at the Foreign & Commonwealth Office and a summer internship at the Joseph Rowntree Foundation.
+I am currently working near full time on my MSc Project, which aims to establish if free text and location information from ambulance calls can improve predictions of patient outcomes. I used to work as a transport and cities economist at the engineering consultancy Ove Arup & Partners. Prior to that, I did a gap year in South America where I worked as a volunteer English teacher in Chile and also did short term work in two hostels in Rio and a bar in La Paz Bolivia. Other experience I gained before this includes a year long placement at the Foreign & Commonwealth Office and a summer internship at the Joseph Rowntree Foundation.
 
-[CV](https://github.com/tolliam/tolliam.github.io/blob/master/Liam%20Tollinton%2020190518x.pdf)   |   [LinkedIn](https://www.linkedin.com/in/liam-tollinton-17aaa932/)
+## Detail
+[CV](https://github.com/tolliam/tolliam.github.io/blob/master/Liam%20Tollinton%2020190518x.pdf)  |  [LinkedIn](https://www.linkedin.com/in/liam-tollinton-17aaa932/)
 
-I occassionally Tweet [@tolliam](https://twitter.com/tolliam), but more frequently Retweet.
-It's probably more interesting to follow me on [Strava](https://www.strava.com/athletes/1072098)
+# Follow me
+I occassionally Tweet [@tolliam](https://twitter.com/tolliam), but more frequently retweet.
+It's perhaps more interesting to follow me on [Strava](https://www.strava.com/athletes/1072098) where you can see all the places I run, swim and cycle.
 
 ## Assignment repos
 [Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)   | [Bots and Brexit](https://github.com/Tolltott/Bots-brexit)  | [MP Wikipedia page edits](https://github.com/Tolltott/MP-wiki-edits)
