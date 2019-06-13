@@ -11,6 +11,9 @@ I am currently working near full time on my MSc Project, which aims to establish
 I occassionally Tweet [@tolliam](https://twitter.com/tolliam), but more frequently retweet.
 It's perhaps more interesting to follow me on [Strava](https://www.strava.com/athletes/1072098) where you can see all the places I run, swim and cycle.
 
+## Data blog
+[Football club fan catchments](https://kyso.io/tolliam/football-club-fan-catchments)  
+
 ## Assignment repos
 [Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)   | [Bots and Brexit](https://github.com/Tolltott/Bots-brexit)  | [MP Wikipedia page edits](https://github.com/Tolltott/MP-wiki-edits)
 
