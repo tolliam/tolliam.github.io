@@ -1,8 +1,8 @@
-###### Helpful hint: be sure to scroll down if you are viewing this in a small browser window so you dont' miss anything!
+###### Helpful hint: be sure to scroll down if you are viewing this in a small browser window so you don't miss anything!
 
 ## About me
 
-I am currently working near full time on my MSc Project, which aims to establish if free text and location information from ambulance calls can improve predictions of patient outcomes. I used to work as a transport and cities economist at the engineering consultancy Ove Arup & Partners. Prior to that, I did a gap year in South America where I worked as a volunteer English teacher in Chile and also did short term work in two hostels in Rio and a bar in La Paz Bolivia. Other experience I gained before this includes a year long placement at the Foreign & Commonwealth Office and a summer internship at the Joseph Rowntree Foundation.
+I am currently looking for full time work having just completed an MSc in Urban Informatics at King's College London. I used to work as a transport and cities economist at the engineering consultancy Ove Arup & Partners. Prior to that, I did a gap year in South America where I worked as a volunteer English teacher in Chile and also did short term work in two hostels in Rio and a bar in La Paz Bolivia. Other experience I gained before this includes a year long placement at the Foreign & Commonwealth Office and a summer internship at the Joseph Rowntree Foundation.
 
 ## Detail
 [CV](https://github.com/tolliam/tolliam.github.io/blob/master/Liam%20Tollinton%2020190518x.pdf)  |  [LinkedIn](https://www.linkedin.com/in/liam-tollinton-17aaa932/)
