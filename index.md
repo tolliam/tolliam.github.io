@@ -12,7 +12,9 @@ I occassionally Tweet [@tolliam](https://twitter.com/tolliam), but more frequent
 It's perhaps more interesting to follow me on [Strava](https://www.strava.com/athletes/1072098) where you can see all the places I run, swim and cycle.
 
 ## Data blog
-[Football club fan catchments](https://kyso.io/tolliam/football-club-fan-catchments)  
+[Football club fan catchments](https://kyso.io/tolliam/football-club-fan-catchments)
+
+[Exploring school data](https://tolliam.github.io/eng_schools/)  
 
 ## Assignment repos
 [Spatial distribution of Airbnbs](https://github.com/Tolltott/Edinburgh-Airbnb)   | [Bots and Brexit](https://github.com/Tolltott/Bots-brexit)  | [MP Wikipedia page edits](https://github.com/Tolltott/MP-wiki-edits)
